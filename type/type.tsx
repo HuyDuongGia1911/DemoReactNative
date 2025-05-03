@@ -20,8 +20,15 @@ export type DrawerParamList = {
   Details: undefined;
 };
 
-export type TabParamList = {
-  HomeScreen: undefined; 
-  Profile: undefined;  
+// export type TabParamList = {
+//   HomeScreen: undefined; 
+//   Profile: undefined;  
+// };
+export type ContactParamList = {
+  Contacts: undefined;
+  Profile: { contact: { name: string; avatar: string; phone: string; favorite?: boolean } };
+  Favorite: undefined
+  User: undefined
+  Options: undefined;
 };
 
