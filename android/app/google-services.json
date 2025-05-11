@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790152822448",
+    "project_id": "fir-9277b",
+    "storage_bucket": "fir-9277b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790152822448:android:b7505534f8e62a3c4bc575",
+        "android_client_info": {
+          "package_name": "com.demoreactnative"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClmvs1ar5FWowUQZ5JYsEBT3lEF0XPv7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
